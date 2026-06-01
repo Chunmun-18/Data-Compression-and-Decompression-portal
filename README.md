@@ -32,12 +32,13 @@ Upon processing a file, the application provides useful metrics including:
 - Instant download of processed files
 - Interactive information section describing the selected algorithm
 
-###**Tech Stack**
-**Frontend:** React.js, Vite, Tailwind CSS, axios
-**Backend:** Python 3, Flask, Gunicorn
-**Hosting:** Vercel,Render
+## Tech Stack
 
-##Deployment
+**Frontend:** React.js, Vite, Tailwind CSS, axios  
+**Backend:** Python 3, Flask, Gunicorn  
+**Hosting:** Vercel, Render
 
-Frontend is hosted at: https://data-compression-and-decompression-sandy.vercel.app
+## Deployment
+
+Frontend is hosted at: https://data-compression-and-decompression-sandy.vercel.app  
 Backend is hosted at: https://data-compression-and-decompression-yjzr.onrender.com
